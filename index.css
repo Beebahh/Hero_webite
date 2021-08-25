@@ -1,0 +1,50 @@
+body{
+	background-image:url(superheropicture.jpg);
+	text-align: center;
+}
+
+#title{ 
+       color:003366 ;
+ }
+
+ .subtitle{
+ 	color:blue;
+ 	font-size:30px ;
+ }
+
+ #enter-hero-input{
+ 	/* 60%-60% of the total width pf the parent*/
+ 	width: 60%;
+ 	height: 40px;
+ 	border-radius: 10px;
+ 	border-color: white;
+ 	border-width: 1px;
+ 	border-style: solid;
+ 	margin-bottom: 30px;
+ 	margin-right: 20px;
+}
+
+#power-stat-table{
+	width: 60%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid blue;
+}
+
+tr{
+	border: 2px solid blue;
+}
+
+#submit-button{
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
+
+.img-superman{
+	width: 400px;
+}
